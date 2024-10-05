@@ -4,7 +4,7 @@ This repository contains the implementation of a **ResNet34** convolutional neur
 
 # The General Prediction
 
-![alt text](image-2.png)
+![alt text](readme/image-2.png)
 
 
 ## Table of Contents
@@ -72,13 +72,13 @@ ResNet34(
 ```
 ## the architecture in a tabular representation
 
-![alt text](image-3.png)
+![alt text](readme/image-3.png)
 
 ## the outcomes will be ....
 
-![alt text](image-1.png)
+![alt text](readme/image-1.png)
 
-![alt text](image.png)
+![alt text](readme/image.png)
 
 ### Results 
 ```bash
