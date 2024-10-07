@@ -2,10 +2,6 @@
 
 This repository contains the implementation of a **ResNet34** convolutional neural network (CNN) for image classification on the **CIFAR-10** dataset. The model is implemented using PyTorch, and training/testing has been done with the CIFAR-10 dataset, which consists of 10 classes of images.
 
-# The General Prediction
-
-![alt text](readme/image-2.png)
-
 
 ## Table of Contents
 - [Installation](https://pypi.org/project/cifar10/)
