@@ -18,8 +18,8 @@ This repository contains the implementation of a **ResNet34** convolutional neur
 1. Clone this repository:
     ```bash
     git clone https://github.com/devs-mohanraj/implementation-Of-ResNet.git
-    
-    cd resnet34_cifar10
+
+    cd implementation-Of-ResNet
     ```
 
 2. Install the required packages:
