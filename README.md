@@ -17,7 +17,7 @@ This repository contains the implementation of a **ResNet34** convolutional neur
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/resnet34_cifar10.git
+    git clone https://github.com/Devs-mohanraj/resnet34_cifar10.git
     cd resnet34_cifar10
     ```
 
@@ -27,6 +27,13 @@ This repository contains the implementation of a **ResNet34** convolutional neur
     ```
 
 3. Download the CIFAR-10 dataset during training, or you can manually download and place it in the `data` directory.
+    ```bash
+    ##to download the dataset
+    wget https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz 
+
+    ##to extract the file 
+    tar -xvzf cifar-10-python.tar.gz
+    ```
 
 ## Usage
 
